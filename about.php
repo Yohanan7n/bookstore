@@ -219,6 +219,12 @@ if(!isset($user_id)){
 
 </section>
 
+
+
+
+
+
+
 <?php include 'footer.php'; ?>
 
 <!-- custom js file link  -->
